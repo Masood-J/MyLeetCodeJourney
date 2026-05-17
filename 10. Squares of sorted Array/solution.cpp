@@ -1,5 +1,6 @@
 // (n)^2
 
+#include <vector>
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
